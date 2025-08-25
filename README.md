@@ -36,4 +36,15 @@
 
 ---
 
-  
+---
+
+<h2 align="center">🐍 Watch My Contributions Snake Through the Grid</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ahsitab/ahsitab/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ahsitab/ahsitab/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://github.com/ahsitab/ahsitab/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
