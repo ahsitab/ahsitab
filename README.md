@@ -36,5 +36,4 @@
 
 ---
 
-<h3 align="center">“Crafting elegant solutions with AI and code.”</h3>
-
+  
