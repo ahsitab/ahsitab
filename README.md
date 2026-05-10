@@ -168,7 +168,16 @@
 
 <br/><br/>
 
-<!-- Row 4: Activity Graph -->
+<!-- Row 4: Snake Game -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahsitab/ahsitab/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahsitab/ahsitab/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ahsitab/ahsitab/output/github-snake.svg" />
+</picture>
+
+<br/><br/>
+
+<!-- Row 5: Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsitab&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff" width="100%" />
 
 ---
