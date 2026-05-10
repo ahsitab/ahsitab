@@ -3,42 +3,42 @@
 <!-- DYNAMIC HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Asfar%20Hossain%20Sitab&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Architect%20%E2%80%A2%20Researcher&descSize=18&descAlignY=62&descColor=88ddff" width="100%" />
 
+<br/>
+
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+Intelligent+Vision+Systems+%F0%9F%94%AD;Explainable+AI+that+Humans+can+Trust+%F0%9F%A7%A0;3+Research+Papers+Under+Journal+Review+%F0%9F%93%84;Full-Stack+%C3%97+ML+%C3%97+XAI+%E2%80%94+The+Full+Spectrum+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- BADGES ROW -->
-<p>
-  <a href="https://www.linkedin.com/in/asfar-hossain-sitab">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ahsitab111@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://ahsitab-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/profile/Ahsitab/">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/asfar-hossain-sitab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:ahsitab111@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://ahsitab-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+&nbsp;
+<a href="https://codeforces.com/profile/Ahsitab/"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ahsitab&label=Profile+Views&color=00D4FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/ahsitab?label=Followers&style=flat-square&color=00D4FF" />
-  <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20XAI-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-orange?style=flat-square&logo=google-maps&logoColor=white" />
-</p>
+<br/><br/>
 
-</div>
+<!-- META BADGES -->
+<img src="https://komarev.com/ghpvc/?username=ahsitab&label=Profile+Views&color=00D4FF&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/ahsitab?label=Followers&style=flat-square&color=00D4FF" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20XAI-blueviolet?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-orange?style=flat-square&logo=google-maps&logoColor=white" />
+
+<br/><br/>
 
 ---
 
 ## `> whoami`
+
+</div>
 
 ```python
 class AsfarHossainSitab:
@@ -64,6 +64,8 @@ class AsfarHossainSitab:
         }
 ```
 
+<div align="center">
+
 ---
 
 ## 🔬 Research & Projects
@@ -72,7 +74,7 @@ class AsfarHossainSitab:
 > Automated vehicle damage segmentation & severity scoring for insurance automation.
 
 | Attribute | Detail |
-|-----------|--------|
+|:---------:|:------:|
 | **Stack** | `YOLOv12-Seg` · `MobileNetV2` · `PyTorch` |
 | **Task** | Instance segmentation → damage classification → severity score |
 | **Impact** | Eliminates manual visual inspection in claim pipelines |
@@ -84,7 +86,7 @@ class AsfarHossainSitab:
 > Crop risk prediction powered by remote sensing data + explainable gradient boosting.
 
 | Attribute | Detail |
-|-----------|--------|
+|:---------:|:------:|
 | **Stack** | `CatBoost` · `SHAP` · `Remote Sensing APIs` |
 | **Performance** | R² = **0.988** on held-out test set |
 | **XAI Layer** | SHAP force plots for non-technical stakeholder communication |
@@ -96,7 +98,7 @@ class AsfarHossainSitab:
 > Production-grade, high-concurrency food delivery platform with real-time logistics.
 
 | Attribute | Detail |
-|-----------|--------|
+|:---------:|:------:|
 | **Stack** | `PHP 8` · `MySQL` · `JavaScript ES6+` · `Docker` |
 | **Features** | Real-time order tracking, driver dispatch, restaurant dashboard |
 | **Repo** | [github.com/ahsitab/QuickBite](https://github.com/ahsitab/QuickBite) |
@@ -106,6 +108,7 @@ class AsfarHossainSitab:
 ## 🛠️ Tech Stack
 
 ### 🧠 AI / ML / Computer Vision
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -116,7 +119,10 @@ class AsfarHossainSitab:
 ![SHAP](https://img.shields.io/badge/SHAP-XAI-8A2BE2?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
+<br/>
+
 ### 🌐 Full-Stack Web Engineering
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -125,7 +131,10 @@ class AsfarHossainSitab:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
+<br/>
+
 ### 🗄️ Data, Infra & DevOps
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -137,25 +146,27 @@ class AsfarHossainSitab:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahsitab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" height="180" />
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=ahsitab&theme=tokyonight&hide_border=true&ring=00D4FF&fire=ff6b6b&currStreakLabel=00D4FF&background=0D1117&sideLabels=00D4FF&dates=c9d1d9" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahsitab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsitab&theme=tokyonight&hide_border=true&ring=00D4FF&fire=ff6b6b&currStreakLabel=00D4FF&background=0D1117" width="49%" />
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsitab&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsitab&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=ahsitab&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" width="49%" />
+<br/><br/>
 
-<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=ahsitab&theme=tokyonight&no-frame=true&no-bg=true&column=9&margin-w=6&margin-h=6" width="100%" />
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsitab&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff" width="100%" />
-
-</div>
 
 ---
 
 ## 🧭 Current Roadmap
+
+</div>
 
 ```
 2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026
@@ -168,11 +179,11 @@ class AsfarHossainSitab:
   └─ [⏳] Target: Research Lab / Senior ML Engineering role
 ```
 
+<div align="center">
+
 ---
 
 ## 🤝 Let's Build Together
-
-<div align="center">
 
 I'm open to **research collaborations**, **senior ML/AI roles**, and **ambitious full-stack projects**.
 
@@ -181,16 +192,18 @@ If you're working on something that matters — computer vision, explainability,
 <br/>
 
 [![Email](https://img.shields.io/badge/📧%20ahsitab111@gmail.com-black?style=for-the-badge)](mailto:ahsitab111@gmail.com)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asfar-hossain-sitab)
+&nbsp;
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://ahsitab-portfolio.netlify.app/)
 
-</div>
+<br/><br/>
 
 ---
 
-<div align="center">
-
 > *"The best models don't just predict — they explain. The best engineers don't just ship — they understand."*
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
