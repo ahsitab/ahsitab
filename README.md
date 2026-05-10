@@ -36,35 +36,40 @@
 
 ---
 
-## `> whoami`
+## 👤 About Me
 
-</div>
-
-```python
-class AsfarHossainSitab:
-    def __init__(self):
-        self.role       = "AI/ML Engineer & Full-Stack Architect"
-        self.location   = "Dhaka, Bangladesh 🇧🇩  |  Open to Worldwide / Remote"
-        self.research   = ["Computer Vision", "Explainable AI", "Climate-AI", "Anomaly Detection"]
-        self.papers     = 3  # Under Journal Review
-        self.building   = "DeepCarDamage — CV-powered insurance automation"
-        self.learning   = "LLM Fine-tuning via LoRA & PEFT"
-        self.goal       = "Research Labs & Senior ML Engineering Roles"
-
-    def values(self):
-        return ["Interpretability over black-boxes",
-                "Impact-first engineering",
-                "Rigorous, reproducible research"]
-
-    def fun_facts(self):
-        return {
-            "chess":  "Inter-college Champion ♟️",
-            "debate": "National Debater — BTV 🎙️",
-            "fuel":   "Unreasonable amounts of coffee ☕"
-        }
-```
-
-<div align="center">
+<table>
+  <tr>
+    <td align="center" width="120"><b>🎯 Role</b></td>
+    <td>AI/ML Engineer &amp; Full-Stack Architect</td>
+    <td align="center" width="120"><b>📍 Location</b></td>
+    <td>Dhaka, Bangladesh 🇧🇩 · Remote Open</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔬 Research</b></td>
+    <td>Computer Vision · XAI · Climate-AI · Anomaly Detection</td>
+    <td align="center"><b>📄 Papers</b></td>
+    <td>3 × Under Journal Review</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🚧 Building</b></td>
+    <td>DeepCarDamage — CV-powered insurance automation</td>
+    <td align="center"><b>📚 Learning</b></td>
+    <td>LLM Fine-tuning via LoRA &amp; PEFT</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🏆 Chess</b></td>
+    <td>Inter-college Champion ♟️</td>
+    <td align="center"><b>🎙️ Debate</b></td>
+    <td>National Debater — BTV</td>
+  </tr>
+  <tr>
+    <td align="center"><b>💡 Values</b></td>
+    <td>Interpretability · Impact-first · Reproducibility</td>
+    <td align="center"><b>⚡ Fuel</b></td>
+    <td>Unreasonable amounts of coffee ☕</td>
+  </tr>
+</table>
 
 ---
 
@@ -146,40 +151,38 @@ class AsfarHossainSitab:
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahsitab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" height="180" />
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=ahsitab&theme=tokyonight&hide_border=true&ring=00D4FF&fire=ff6b6b&currStreakLabel=00D4FF&background=0D1117&sideLabels=00D4FF&dates=c9d1d9" height="180" />
+<!-- Row 1: Stats + Streak — using fast fork to avoid rate limits -->
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ahsitab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" height="170" />
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=ahsitab&theme=tokyonight&hide_border=true&ring=00D4FF&fire=ff6b6b&currStreakLabel=00D4FF&background=0D1117&sideLabels=00D4FF&dates=c9d1d9" height="170" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsitab&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="180" />
+<!-- Row 2: Top Languages — using fast fork -->
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahsitab&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="170" />
 
 <br/><br/>
 
+<!-- Row 3: Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=ahsitab&theme=tokyonight&no-frame=true&no-bg=true&column=9&margin-w=6&margin-h=6" width="100%" />
 
 <br/><br/>
 
+<!-- Row 4: Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsitab&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff" width="100%" />
 
 ---
 
 ## 🧭 Current Roadmap
 
-</div>
-
-```
-2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026
-  │
-  ├─ [✅] DeepCarDamage v1 — segmentation pipeline complete
-  ├─ [✅] ClimaDecideRisk — R²=0.988, SHAP integrated
-  ├─ [🔄] 3× Research Papers — under journal review
-  ├─ [🔄] LLM Fine-tuning — LoRA / PEFT experiments
-  ├─ [⏳] DeepCarDamage v2 — multi-modal damage reasoning
-  └─ [⏳] Target: Research Lab / Senior ML Engineering role
-```
-
-<div align="center">
+| Status | Milestone |
+|:------:|:----------|
+| ✅ | **DeepCarDamage v1** — segmentation pipeline complete |
+| ✅ | **ClimaDecideRisk** — R²=0.988, SHAP integrated |
+| 🔄 | **3× Research Papers** — under journal review |
+| 🔄 | **LLM Fine-tuning** — LoRA / PEFT experiments |
+| ⏳ | **DeepCarDamage v2** — multi-modal damage reasoning |
+| ⏳ | **Goal** — Research Lab / Senior ML Engineering role |
 
 ---
 
