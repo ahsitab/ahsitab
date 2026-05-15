@@ -7,7 +7,7 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+Intelligent+Vision+Systems+%F0%9F%94%AD;Explainable+AI+that+Humans+can+Trust+%F0%9F%A7%A0;3+Research+Papers+Under+Journal+Review+%F0%9F%93%84;Full-Stack+%C3%97+ML+%C3%97+XAI+%E2%80%94+The+Full+Spectrum+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+Intelligent+Vision+Systems+%F0%9F%94%AD;Explainable+AI+that+Humans+can+Trust+%F0%9F%A7%A0;3+Research+Papers+Under+Review+%F0%9F%93%84;Full-Stack+%C3%97+ML+%C3%97+XAI+%E2%80%94+The+Full+Spectrum+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/><br/>
