@@ -163,11 +163,6 @@
 
 <br/><br/>
 
-<!-- Row 3: Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=ahsitab&theme=tokyonight&no-frame=true&no-bg=true&column=9&margin-w=6&margin-h=6" width="100%" />
-
-<br/><br/>
-
 <!-- Row 4: Snake Game -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahsitab/ahsitab/output/github-snake-dark.svg" />
