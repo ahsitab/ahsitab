@@ -154,7 +154,6 @@
 <!-- Row 1: Stats + Streak — using fast fork to avoid rate limits -->
 <img src="https://github-readme-stats-fast.vercel.app/api?username=ahsitab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117" height="170" />
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=ahsitab&theme=tokyonight&hide_border=true&ring=00D4FF&fire=ff6b6b&currStreakLabel=00D4FF&background=0D1117&sideLabels=00D4FF&dates=c9d1d9" height="170" />
 
 <br/><br/>
 
@@ -172,10 +171,7 @@
 
 <br/><br/>
 
-<!-- Row 5: Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsitab&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff" width="100%" />
 
----
 
 ## 🧭 Current Roadmap
 
